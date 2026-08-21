@@ -267,3 +267,5 @@ Therefore, Archinstall will try its best to not introduce any breaking changes e
 # Contributing
 
 Please see [CONTRIBUTING.md](https://github.com/archlinux/archinstall/blob/master/CONTRIBUTING.md)
+
+pls give us some money
