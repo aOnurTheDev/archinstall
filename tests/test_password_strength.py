@@ -17,3 +17,5 @@ from archinstall.lib.models.users import PasswordStrength
 )
 def test_password_strength(password: str, expected: PasswordStrength) -> None:
 	assert PasswordStrength.strength(password) == expected
+
+#
